@@ -17,3 +17,29 @@ public class Mouse {
 		System.out.println("Scrolled Down");
 	}
 }
+
+package Basic;
+
+public class Mouse1 extends Mouse {
+	public static void connect() {
+		System.out.println("Connected");
+			}
+
+}
+package Basic;
+
+public class Mouse2 extends Mouse{
+	public static void setColor() {
+		System.out.println("Color is now set");
+		}
+	
+
+}
+package Basic;
+
+public class Mouse3 extends Mouse {
+	public static void toWait() {
+		System.out.println
+	}
+
+}
